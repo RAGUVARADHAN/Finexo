@@ -1,0 +1,17 @@
+.nav ul 
+{
+    display: flex;
+}
+.nav ul li a 
+{
+    color:black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin: 0px 25px;
+    font-size: 18px;
+
+}
+.nav ul li a:hover
+{
+    color:rgb(29, 29, 240);
+} 

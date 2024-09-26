@@ -1,0 +1,44 @@
+.whyus 
+{
+    text-align: center; 
+    padding: 100px 100px;
+}
+.whyus >p
+{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+}
+.whyus-div1 
+{
+    margin-top: 20px;
+}
+.whyus-div2 
+{
+    margin-top: 50px;
+}
+.whyus-div2 img 
+{
+    height: 5%;
+    width: 5%;
+    border: 3px solid rgb(0, 0, 50);
+    border-radius: 50%;
+    padding: 20px;
+}
+.whyus-div2 img+p
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 32px;
+    margin-top: 10px;
+}
+.whyus-div2 p 
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.whyus-div1 button 
+{
+    margin-top: 40px; 
+}

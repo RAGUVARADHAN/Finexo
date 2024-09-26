@@ -1,0 +1,74 @@
+.customers
+{
+    font-family: 'Noto Sans', sans-serif;
+    padding: 100px 20px;
+    overflow: hidden;
+}
+.customers-div1 p
+{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+}
+.customers-div2
+{
+    display: flex;
+    justify-content:space-between;
+    padding: 0px 50px;
+    align-items: center;
+    margin-top: 80px;
+    width: 200%;
+}
+.customers-div3 
+{
+    margin-right: 10px;
+    padding: 20px 20px;
+    width: 600px;
+    position: relative;
+    box-shadow: 5px 5px 10px rgb(174, 173, 173);
+    border: 1px solid rgb(233, 233, 233);
+}
+.customers-div3 img 
+{
+    border-radius: 50%;
+    position: absolute;
+    bottom: 83%;
+}
+.customers-div3 p:nth-child(2) 
+{
+    margin-top: 40px;
+    font-size: 30px;
+}
+.customers-div3 p:nth-child(3)
+{
+    margin-top: 10px;
+    opacity: 0.5;
+} 
+.customers-div3 p:nth-child(4)
+{
+    margin-top: 30px;
+    opacity: 0.8;
+}
+.customers-div4 
+{
+    text-align: center;
+    margin-top: 50px;
+}
+.customers-div4 .fa-greater-than,.fa-less-than
+{
+    border: 1px solid rgb(174, 173, 173);
+    padding: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.fa-greater-than:hover 
+{
+    background-color: aqua;
+    color: white;
+}
+.fa-less-than:hover 
+{
+    background-color: aqua;
+    color: white;
+}
